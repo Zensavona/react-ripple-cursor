@@ -23,3 +23,4 @@ const YourComponent = () => (<div>
     <SomeOtherComponent />
   </Ripple>
 </div>)
+```
